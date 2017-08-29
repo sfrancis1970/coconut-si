@@ -4,7 +4,7 @@ $lang['common_submit']='Submit';
 $lang['common_or']='OR';
 $lang['common_powered_by']='Powered by';
 $lang['common_welcome']='Welcome';
-$lang['common_logout']='Logout';
+$lang['common_logout']='Salir';
 $lang['common_list_of']='List of';
 $lang['common_first_name']='First Name';
 $lang['common_last_name']='Last Name';
@@ -34,6 +34,6 @@ $lang['common_email_invalid_format']='The e-mail address is not in the proper fo
 $lang['common_confirm_search']='You have selected one or more rows, these will no longer be selected after your search. Are you sure you want to submit this search?';
 $lang['common_no_persons_to_display']='There are no people to display';
 $lang['common_return_policy']='Return Policy';
-$lang['common_price']='Price';
+$lang['common_price']='Precio';
 $lang['common_welcome_message']= 'Welcome to PHP Point Of Sale, click a module below to get started!';
 ?>
