@@ -1,6 +1,6 @@
 <?php
 $lang['config_info']='Store Configuration Information';
-$lang['config_company']='Company Name';
+$lang['config_company']='Nombre de la Compañia';
 $lang['config_address']='Company Address';
 $lang['config_phone']='Company Phone';
 $lang['config_website']='Website';
