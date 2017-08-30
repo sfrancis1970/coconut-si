@@ -1,25 +1,25 @@
 <?php
 $lang['module_home']='Home';
 
-$lang['module_customers']='Customers';
-$lang['module_customers_desc']='Add, Update, Delete, and Search customers';
+$lang['module_customers']='Clientes';
+$lang['module_customers_desc']='Agregar, Actualizar, Eliminar, y Buscar Clientes';
 
-$lang['module_suppliers']='Suppliers';
-$lang['module_suppliers_desc']='Add, Update, Delete, and Search suppliers';
+$lang['module_suppliers']='Proveedores';
+$lang['module_suppliers_desc']='Agregar, Actualizar, Eliminar, y Buscar proveedores';
 
-$lang['module_employees']='Employees';
-$lang['module_employees_desc']='Add, Update, Delete, and Search employees';
+$lang['module_employees']='Empleados';
+$lang['module_employees_desc']='Agregar, Actualizar, Eliminar, y Buscar empleados';
 
-$lang['module_sales']='Sales';
-$lang['module_sales_desc']='Process sales and returns';
+$lang['module_sales']='Ventas';
+$lang['module_sales_desc']='Elabora facturas y las imprime';
 
-$lang['module_reports']='Reports';
-$lang['module_reports_desc']='View and generate reports';
+$lang['module_reports']='Reportes';
+$lang['module_reports_desc']='Generar e imprimir reportes';
 
-$lang['module_items']='Items';
-$lang['module_items_desc']='Add, Update, Delete, and Search items';
+$lang['module_items']='Producto';
+$lang['module_items_desc']='Agredar, Actualizar, Eliminar, y Buscar producto';
 
-$lang['module_config']='Store Config';
-$lang['module_config_desc']='Change the store\'s configuration';
+$lang['module_config']='Configuración general';
+$lang['module_config_desc']='Cambiar configuraciones de forma general';
 
 ?>
