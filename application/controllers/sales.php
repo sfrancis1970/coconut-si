@@ -120,7 +120,9 @@ class Sales extends Secure_area
 		if($customer_id!=-1)
 		{
 			$cust_info=$this->Customer->get_info($customer_id);
+			$data['custruc']=$cust_info->ruc;
 			$data['customer']=$cust_info->first_name.' '.$cust_info->last_name;
+			$data['custadre']=$cust_info->address_1;
 		}
 
 		//SAVE sale to database
